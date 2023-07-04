@@ -40,5 +40,3 @@ Selected Habit only History Dialog:
 All History screen:
 
 ![All History screen](https://user-images.githubusercontent.com/54005330/235318951-60d33b59-aba8-4b02-9380-e6effdc42f82.PNG)
-
-Feel free to contribute, offer improvements, or leave any comments. I'll be all ears! 😄
