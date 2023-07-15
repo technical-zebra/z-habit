@@ -1,6 +1,6 @@
 # Z-Habits
 
-A Simple Habits Tracking App with Kotlin, Room Database, Kotlin Coroutines, and MPAndroid Chart.
+A Simple Habits Tracking App with Kotlin, Room Database, Kotlin Coroutines, and MPAndroidChart.
 
 ## App Features:
 
